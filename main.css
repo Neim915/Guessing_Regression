@@ -1,0 +1,82 @@
+nav {
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+  max-width: 320px;
+  margin: auto;
+}
+.idk2
+{
+  max-width: 400px;
+  margin: auto;
+}
+
+.canvasplace
+{
+  max-width: 440px;
+  margin: auto;
+}
+
+.yesornoplace
+{max-width: 320px;
+  margin:auto;
+}
+
+.Info
+{
+  max-width: 320px;
+  margin: auto;
+}
+
+#firstbutton{
+  background-color: #4CAF50; /* Green */
+  border: 1px black;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+
+#firstbutton:hover{
+  background-color: Green;
+}
+
+#small_button_good{
+  background-color: Green;
+  color: white;
+  text-align: center;
+}
+
+#small_button_no_good{
+  background-color: Red;
+  color: white;
+  text-align: center;
+}
+
+.small_box{
+  width: 55px;
+  height: 20px;
+}
+
+.small_box:hover{
+  background-color: red;
+}
+
+#qs1{
+  font-size: 20px;
+  font-weight: bold;
+}
+canvas{
+  width: 400px;
+  height: 400px;
+  border: 2px solid blue;
+}
+#infobox
+{
+  width: 250px;
+  height: 250px;
+  border-color: green;
+  align-content: center;
+}
